@@ -1,0 +1,6 @@
+PyQt5==5.15.11
+SpeechRecognition==3.10.4
+pyttsx3==2.90
+pyaudio==0.2.14
+vosk==0.3.45
+sounddevice==0.4.7
