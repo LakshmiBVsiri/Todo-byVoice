@@ -50,3 +50,5 @@ Step 4: Enjoy. Or panic if something breaks. Your choice.
 -------------------
 If this works — great, you’re a genius.
 If it doesn’t — it’s clearly the computer’s fault. Blame it. Loudly.
+For the Detailed Information check out the other read me file 
+
